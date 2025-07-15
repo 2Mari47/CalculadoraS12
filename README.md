@@ -79,7 +79,11 @@ calculadoras12/
 │           │   ├── layout/
 │           │   │   └── activity_main.xml
 │           │   ├── drawable/
-│           │   │   └── gradient_background.xml
+|           |   |   |── gradient_background.xml
+|           |   |   |── ic_calculate.xml
+|           |   |   |── ic_number_1.xml
+|           |   |   |── ic_number_2.xml
+│           │   │   └── ic_result.xml
 │           │   ├── values/
 │           │   │   ├── colors.xml
 │           │   │   ├── strings.xml
