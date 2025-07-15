@@ -39,18 +39,22 @@ Esta aplicación implementa una calculadora completa siguiendo las mejores prác
 3. **Calcular**: Presiona el botón "✨ Calcular" para obtener el resultado
 
 **SUMA**
+
 ![Captura de pantalla de la aplicación](img/1.png)
 
 
 **RESTA**
+
 ![Captura de pantalla de la aplicación](img/2.png)
 
 
 **MULTIPLICACIÓN**
+
 ![Captura de pantalla de la aplicación](img/3.png)
 
 
 **DIVISIÓN**
+
 ![Captura de pantalla de la aplicación](img/4.png)
 
 4. **Ver resultado**: El resultado aparece automáticamente en la tarjeta verde
