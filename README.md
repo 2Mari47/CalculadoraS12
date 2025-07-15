@@ -160,20 +160,6 @@ setContentView(binding.root)
 4. **LiveData** notifica a los observadores
 5. **UI** se actualiza automáticamente
 
-## **🎨 Diseño UI**
-
-### **Paleta de Colores**
-- **Primary**: #3F51B5 (Indigo)
-- **Background**: Gradiente azul suave
-- **Success**: #4CAF50 (Verde)
-- **Error**: #F44336 (Rojo)
-- **Surface**: #FFFFFF (Blanco)
-
-### **Componentes Visuales**
-- **Header Card**: Título con icono
-- **Calculator Card**: Formulario principal
-- **Result Card**: Resultado con feedback visual
-- **Floating Action**: Botón principal destacado
 
 ## **🚀 Beneficios de la Arquitectura**
 
@@ -197,15 +183,6 @@ setContentView(binding.root)
 - **LiveData** es lifecycle-aware
 - **No memory leaks** por gestión automática
 
-## **📱 Capturas de Pantalla**
-
-La aplicación presenta:
-- Interfaz moderna con Material Design
-- Cards con sombras y elevación
-- Gradientes suaves y colores vibrantes
-- Feedback visual inmediato
-- Diseño responsivo para diferentes pantallas
-
 ## **🔧 Configuración del Proyecto**
 
 ### **build.gradle (Module: app)**
@@ -224,15 +201,3 @@ dependencies {
 }
 ```
 
-## **🎯 Próximas Mejoras**
-
-- [ ] Historial de operaciones
-- [ ] Más operaciones matemáticas
-- [ ] Modo científico
-- [ ] Temas personalizables
-- [ ] Exportar resultados
-- [ ] Accesibilidad mejorada
-
----
-
-**Desarrollado con ❤️ usando Android MVVM Architecture**
